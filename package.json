@@ -1,0 +1,24 @@
+{
+  "name": "2.4-qr-code-project",
+  "version": "1.0.0",
+  "description": "QR Code project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilramagiri/QR-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhilramagiri/QR-Project/issues"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.15",
+    "qr-image": "^3.2.0"
+  },
+  "homepage": "https://github.com/akhilramagiri/QR-Project#readme"
+}
